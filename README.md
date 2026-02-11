@@ -6,21 +6,95 @@ Elephant Bookstore — Muscle Shoals, Alabama (est. 2004)
 Founded in 2004, The Elephant Bookstore is a beloved independent bookstore located in Muscle Shoals, Alabama, offering a welcoming space for readers, learners, and book lovers of the Southern Gothic genre. Known for its carefully curated selection of bestselling novels, timeless classics, children’s stories, and local interest titles, The Elephant Bookstore celebrates the joy of reading and lifelong discovery. With a cozy atmosphere and a strong connection to the community, it serves as more than just a shop—it’s a gathering place where stories are shared, ideas are sparked, and the love of literature continues to grow.
 
 ## Wireframe
+![Alt text}.
+
 # The Elephant Bookstore
 
 ---
 
 ## Header:
-- Logo: "Elephant Bookstore" (vintage style)
-- Navigation Bar:
-  - Home
-  - About Us
-  - Browse Genres
-  - Featured Books
-  - Events & Signings
-  - Blog
-  - Contact Us
 
+Logo: "Elephant Bookstore" (vintage style, serif typography, warm earth tones reflecting Southern Gothic aesthetic)
+
+Navigation Bar:
+
+Home
+
+Landing page featuring the Librarian’s Choice banner, featured categories, Book of the Month, upcoming events, and testimonials.
+
+Highlights current promotions and seasonal recommendations.
+
+About Us
+
+Story of Elephant Bookstore (est. 2004 in Muscle Shoals, Alabama).
+
+Mission statement and commitment to Southern Gothic literature.
+
+Photos of the store interior (cozy reading nook, wooden shelves, warm lighting).
+
+Staff introductions and community involvement.
+
+Browse Genres
+
+Organized catalog of book categories:
+
+Southern Gothic Classics
+
+Modern Southern Gothic
+
+Dark Southern Fiction
+
+Local Authors
+
+Children’s Books
+
+Bestsellers
+
+Filter/search functionality (by author, price, format).
+
+Each category links to a product listing page.
+
+Featured Books
+
+Librarian’s Choice section (using tatteredReadsLibrariansChoiceBanner.jpg).
+
+Book of the Month spotlight.
+
+Staff picks and curated seasonal selections.
+
+“Buy Now” and “Learn More” CTAs.
+
+Events & Signings
+
+Calendar of upcoming book signings, readings, and community gatherings.
+
+RSVP functionality.
+
+Event details (date, time, description, guest author bio).
+
+Photos from past events.
+
+Blog
+
+Articles about Southern Gothic literature.
+
+Author spotlights.
+
+Reading lists and recommendations.
+
+Community stories and store updates.
+
+Contact Us
+
+Contact form (name, email, message).
+
+Store address (Muscle Shoals, Alabama).
+
+Business hours.
+
+Google Map embed.
+
+Phone number and social media links.
 ---
 
 ## Featured Categories:
