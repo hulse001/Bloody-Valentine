@@ -13,88 +13,15 @@ Founded in 2004, The Elephant Bookstore is a beloved independent bookstore locat
 ---
 
 ## Header:
+-------------------------------------------------
+|  Logo: Elephant Bookstore  |      Home       |
+|  (Vintage Style Branding)  |    About Us     |
+-------------------------------------------------
+|     Browse Genres          |  Featured Books |
+|     Events & Signings      |       Blog      |
+|     Contact Us             |                 |
+-------------------------------------------------
 
-Logo: "Elephant Bookstore" (vintage style, serif typography, warm earth tones reflecting Southern Gothic aesthetic)
-
-Navigation Bar:
-
-Home
-
-Landing page featuring the Librarian’s Choice banner, featured categories, Book of the Month, upcoming events, and testimonials.
-
-Highlights current promotions and seasonal recommendations.
-
-About Us
-
-Story of Elephant Bookstore (est. 2004 in Muscle Shoals, Alabama).
-
-Mission statement and commitment to Southern Gothic literature.
-
-Photos of the store interior (cozy reading nook, wooden shelves, warm lighting).
-
-Staff introductions and community involvement.
-
-Browse Genres
-
-Organized catalog of book categories:
-
-Southern Gothic Classics
-
-Modern Southern Gothic
-
-Dark Southern Fiction
-
-Local Authors
-
-Children’s Books
-
-Bestsellers
-
-Filter/search functionality (by author, price, format).
-
-Each category links to a product listing page.
-
-Featured Books
-
-Librarian’s Choice section (using tatteredReadsLibrariansChoiceBanner.jpg).
-
-Book of the Month spotlight.
-
-Staff picks and curated seasonal selections.
-
-“Buy Now” and “Learn More” CTAs.
-
-Events & Signings
-
-Calendar of upcoming book signings, readings, and community gatherings.
-
-RSVP functionality.
-
-Event details (date, time, description, guest author bio).
-
-Photos from past events.
-
-Blog
-
-Articles about Southern Gothic literature.
-
-Author spotlights.
-
-Reading lists and recommendations.
-
-Community stories and store updates.
-
-Contact Us
-
-Contact form (name, email, message).
-
-Store address (Muscle Shoals, Alabama).
-
-Business hours.
-
-Google Map embed.
-
-Phone number and social media links.
 ---
 
 ## Featured Categories:
