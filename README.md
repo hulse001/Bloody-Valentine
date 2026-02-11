@@ -14,14 +14,12 @@ Founded in 2004, The Elephant Bookstore is a beloved independent bookstore locat
 
 ## Header:
 -------------------------------------------------
-|  Logo: Elephant Bookstore  |      Home       |
-|  (Vintage Style Branding)  |    About Us     |
+|  Logo: Elephant Bookstore  |       Home       |
+|  (Vintage Style Branding)  |     About Us     |
 -------------------------------------------------
-|     Browse Genres          |  Featured Books |
-|     Events & Signings      |       Blog      |
-|     Contact Us             |                 |
+|      Browse Genres         |   Featured Books |
+|     Events & Signings      |        Blog      |
 -------------------------------------------------
-
 ---
 
 ## Featured Categories:
