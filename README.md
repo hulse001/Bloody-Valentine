@@ -103,3 +103,32 @@ Book Signings, Readings, and Community Gatherings
 
 ## System Requirements  
 
+## Technical Requirements
+
+This project represents the planning and design phase of a fictional company website created as part of the Software Development Life Cycle (SDLC).
+
+### Languages
+- HTML5 for website structure
+- CSS3 for layout and styling
+- JavaScript (planned) for basic interactivity
+
+### Hosting
+- The website will be hosted using GitHub Pages.
+
+### Frameworks / Libraries
+- No external frameworks required at this stage.
+- Bootstrap may be considered later for responsive design.
+
+### API Integration
+- None required for this project.
+
+### Version Control
+- All development, planning, and issue tracking are maintained through GitHub.
+
+### Browser Compatibility
+- Designed to work on modern browsers (Chrome, Edge, Firefox, Safari).
+
+### Responsive Design
+- Mobile-first design principles will be used to ensure compatibility across desktops, tablets, and smartphones.
+
+
