@@ -14,7 +14,7 @@ With a cozy atmosphere and a strong connection to the community, it serves as mo
 
 ## Wireframe  
 
-![Alt text](.)
+![Alt text](https://tse2.mm.bing.net/th/id/OIP.4f-jNr5PtValWH2mutm4agHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ---
 
